@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a5647d896929e120",
+        "id": "ccdc7fea2031d14f",
         "type": "tabs",
         "children": [
           {
-            "id": "1bef962ce6b92179",
+            "id": "af7921b27dbc2e83",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -171,8 +171,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ae33bcc92ddabf8",
+  "active": "af7921b27dbc2e83",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-03-30 23.38.02.excalidraw.md",
+    "Excalidraw",
     "TODO.md",
     "个人/专业相关/排序.md",
     "个人/专业相关/分布式事务.md",
@@ -206,7 +208,6 @@
     "个人/记录/TodoList.md",
     "个人/记录/找工作/浙大.md",
     "个人/记录/找工作/小红书.md",
-    "个人/记录/找工作/简历投递.md",
     "个人/记录/找工作",
     "个人/专业相关/assets/Pasted image 20250329090734.png",
     "个人/专业相关/assets/Pasted image 20250329090655.png",
@@ -219,7 +220,6 @@
     "个人/专业相关",
     "个人/TinyKV/未命名.canvas",
     "未命名.canvas",
-    "个人/TinyKV/assets",
-    "个人/TinyKV"
+    "个人/TinyKV/assets"
   ]
 }
