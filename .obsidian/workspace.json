@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "8a90c232b4fdcddf",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5647d896929e120",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bef962ce6b92179",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f2d1c792c5bc9571",
+    "type": "split",
+    "children": [
+      {
+        "id": "7108d035b2742550",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1c60eec06e4e615",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "eb88f76de173d8f1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "db185b40a861416f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 333.5024719238281
+  },
+  "right": {
+    "id": "360476e99894d460",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2d3dc8491a82f26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f578456ecb4367f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "组会/11.7 组会.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "11.7 组会 的反向链接列表"
+            }
+          },
+          {
+            "id": "ea5ecce75466e0be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "组会/11.7 组会.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "11.7 组会 的出链列表"
+            }
+          },
+          {
+            "id": "f0b8055b9768a45d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "7cadc0c60c591ef1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "组会/11.7 组会.md"
+              },
+              "icon": "lucide-list",
+              "title": "11.7 组会 的大纲"
+            }
+          },
+          {
+            "id": "7ae33bcc92ddabf8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "7ae33bcc92ddabf8",
+  "lastOpenFiles": [
+    "TODO.md",
+    "个人/专业相关/排序.md",
+    "个人/专业相关/分布式事务.md",
+    "个人/专业相关/跳表.md",
+    "个人/专业相关/Golang-GC.md",
+    "个人/专业相关/Golang-Gin.md",
+    "个人/专业相关/Golang-GMP.md",
+    "个人/专业相关/Lsm-Tree.md",
+    "个人/专业相关/MySQL.md",
+    "个人/专业相关/Mysql 日志.md",
+    "个人/专业相关/Redis 内容解析.md",
+    "个人/设备管理/内网穿透.md",
+    "个人/专业相关/外卖表.md",
+    "个人/专业相关/Golang-Ants.md",
+    "个人/专业相关/Golang-Channel.md",
+    "个人/专业相关/Golang-Context.md",
+    "个人/专业相关/Golang-defer.md",
+    "个人/专业相关/Redis 数据结构.md",
+    "个人/专业相关/Redis/分布式锁.md",
+    "个人/专业相关/Redis",
+    "个人/专业相关/sky-take-out.md",
+    "个人/专业相关/redm.md",
+    "个人/专业相关/assets/Pasted image 20250330150454.png",
+    "个人/专业相关/assets/Pasted image 20250330150442.png",
+    "个人/专业相关/assets/Pasted image 20250330144857.png",
+    "个人/专业相关/assets/Pasted image 20250330144856.png",
+    "个人/专业相关/assets/Pasted image 20250330143318.png",
+    "个人/专业相关/assets/Pasted image 20250330142309.png",
+    "个人/专业相关/assets/Pasted image 20250330142101.png",
+    "个人/专业相关/Raft.md",
+    "个人/记录/TodoList.md",
+    "个人/记录/找工作/浙大.md",
+    "个人/记录/找工作/小红书.md",
+    "个人/记录/找工作/简历投递.md",
+    "个人/记录/找工作",
+    "个人/专业相关/assets/Pasted image 20250329090734.png",
+    "个人/专业相关/assets/Pasted image 20250329090655.png",
+    "个人/专业相关/assets/Pasted image 20250326215152.png",
+    "个人/Templates",
+    "个人/知识库/云计算",
+    "个人/知识库",
+    "个人/记录",
+    "个人/专业相关/assets",
+    "个人/专业相关",
+    "个人/TinyKV/未命名.canvas",
+    "未命名.canvas",
+    "个人/TinyKV/assets",
+    "个人/TinyKV"
+  ]
+}
